@@ -51,7 +51,7 @@ inquirer.prompt([{
 
 function logData(name,keyword) {
     // console.log(keyword);
-    fs.appendFile('cardsLog.txt',name+':'+JSON.stringify(keyword) + '\r\n', function(err) {
+    fs.appendFile('cardsLog.txt','Flash Card:'+name+':'+JSON.stringify(keyword) + '\r\n', function(err) {
         if (err) {
             console.log(err);
         }

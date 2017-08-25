@@ -1,9 +1,4 @@
-undefined
-[object Object]
-[object Object]
-[object Object]
-[object Object]
-[object Object]
-[object Object]
-[object Object]
-{"front":"bingo is","back":"bango"}
+
+Flash Card:time:{"front":"the beginning of time","back":"unknown"}
+Flash Card:react:{"front":"what is react?","back":"javascript library"}
+
