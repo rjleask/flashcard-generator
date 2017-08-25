@@ -1,0 +1,9 @@
+undefined
+[object Object]
+[object Object]
+[object Object]
+[object Object]
+[object Object]
+[object Object]
+[object Object]
+{"front":"bingo is","back":"bango"}
